@@ -1,0 +1,21 @@
+{
+  "name": "d3skills",
+  "version": "0.0.0",
+  "authors": [
+    "Alexandre Rieux <alexandre.rieux@groupe-regards.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5"
+  }
+}
